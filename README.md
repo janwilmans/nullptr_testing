@@ -8,7 +8,7 @@ Interesting stuff 1
 
 ## Sub title
 
-Interesting stuff 2 in *bold* or _italic_ or ~strikethrough~.
+Interesting stuff 2 in **bold** or _italic_ or ~strikethrough~.
 
 Now we show this code:
 
