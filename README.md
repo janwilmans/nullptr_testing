@@ -4,6 +4,9 @@ This is the introduction
 
 ## Sub title
 
+* option
+* option
+
 Interesting stuff 1
 
 ## Sub title
