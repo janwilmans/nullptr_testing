@@ -96,8 +96,8 @@ Bla bla
 
 ### References
 
-https://github.com/janwilmans/
-https://nullptr.nl
+* <https://github.com/janwilmans/>
+* <https://nullptr.nl>
 
 
 
