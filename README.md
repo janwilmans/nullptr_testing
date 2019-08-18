@@ -13,7 +13,7 @@ Interesting stuff 1
 
 Interesting stuff 2 in **bold** or _italic_ or ~strikethrough~.
 
-![Sky Logo](/arg/sky.png)
+![Sky Logo](/art/sky.png)
 
 Now we show this code:
 
