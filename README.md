@@ -9,7 +9,7 @@ This is the introduction
 
 Interesting stuff 1
 
-[comment]: # (content-start)
+[comment]: # (naildown@section-start)
 
 ## Sub title
 
@@ -96,6 +96,8 @@ int main()
     return 0;
 }
 ```
+
+[comment]: # (naildown@section-end)
 
 ```batch
 @echo off
