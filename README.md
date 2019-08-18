@@ -9,6 +9,8 @@ This is the introduction
 
 Interesting stuff 1
 
+[comment]: # (content-start)
+
 ## Sub title
 
 Interesting stuff 2 in **bold** or _italic_ or ~strikethrough~.
