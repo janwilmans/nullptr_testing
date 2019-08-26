@@ -81,7 +81,10 @@ template Camera* interface_cast<Camera*>(const std::unique_ptr<Owner>&);
 template IO* interface_cast<IO*>(Camera*);
 
 } // foo
+```
+[comment]: # (naildown@section-end)
 
+```cpp
 int main()
 {
     std::vector<std::unique_ptr<foo::Owner>> cameras;
@@ -97,7 +100,7 @@ int main()
 }
 ```
 
-[comment]: # (naildown@section-end)
+[comment]: # (naildown@section-start)
 
 ```batch
 @echo off
@@ -155,6 +158,7 @@ exit /B 1
 
 Bla bla <https://nullptr.nl> enzo
 
+[comment]: # (naildown@section-end)
 
 ### References
 
